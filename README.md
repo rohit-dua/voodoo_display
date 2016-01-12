@@ -2,7 +2,7 @@
 All electronic devices send out eletromagnetic waves, so does our monitor and our monitor does it all the time and at very high frequencies, high enough for our short wave AM radio. All we have to do is display the "correct" image on our screen and out monitor will emit the "right" signals.
 
 Example Screen that generates AM signals.
-![voodoo_screencast_data](https://cloud.githubusercontent.com/assets/6825447/12243754/3bd6c8d2-b8c6-11e5-8d63-dd59f56746bb.gif)
+![voodoo_screencast_data](https://cloud.githubusercontent.com/assets/6825447/12274041/0346b332-b98f-11e5-9d0b-4bd5bf31e86b.gif)
 ## Dependencies
 * SDL >= 2.0 <https://wiki.libsdl.org/Installation>
 
